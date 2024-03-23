@@ -72,8 +72,9 @@ CCTCCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48
 
 
 港澳台频道IPV6,#genre#
-凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-凤凰资讯,http://117.28.177.45:8605/rtp/239.61.2.183:9086
+凤凰中文,http://113.64.145.244:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.244:8081/hls/36/index.m3u8
+凤凰香港,http://113.64.145.244:8081/hls/38/index.m3u8
 
 凤凰中文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
